@@ -62,5 +62,3 @@ jobs:
           path: |
             Installer/SbiePlus_x64/*
           retention-days: 60
-            Installer/SbiePlus_a64/*
-          retention-days: 60
